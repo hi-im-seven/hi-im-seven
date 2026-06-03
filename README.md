@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Seven. Welcome to my mess of a repo.
+- 🔭 I'm not super active but I typically mess with video game modding.
+- 🌱 I mostly tinker about with Blender, Lua and .xml editing. Right now I'm assembling a custom map for the game "Project Zomboid".
+- 😄 Pronouns: he/him
+- 🏳️‍🌈
+
 <!--
 **hi-im-seven/hi-im-seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
